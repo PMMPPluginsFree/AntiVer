@@ -1,2 +1,2 @@
 # AntiVer
-Disbale the version command. - Pocketmine.
+Disable the default PocketMine-MP /version command.
